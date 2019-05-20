@@ -1,0 +1,17 @@
+#items
+##materials
+item.material.coal_trace.name=Coal Trace
+item.material.iron_trace.name=Iron Trace
+item.material.gold_trace.name=Gold Trace
+item.material.diamond_trace.name=Diamond Trace
+item.material.emerald_trace.name=Emerald Trace
+item.material.steel_trace.name=Steel Trace
+item.material.coal_dust.name=Coal Dust
+item.material.iron_dust.name=Iron Dust
+item.material.gold_dust.name=Gold Dust
+item.material.diamond_dust.name=Diamond Dust
+item.material.emerald_dust.name=Emerald Dust
+item.material.steel_dust.name=Steel Dust
+item.material.steel_ingot.name=Steel Ingot
+
+#blocks
